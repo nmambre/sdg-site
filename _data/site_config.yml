@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Curaçao
+  adjective: Curaçaoan
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,19 +56,17 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: info@cbs.cw
+  suggestions: info@cbs.cw
+  functional: info@cbs.cw
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
 footer_language_toggle: none
 footer_menu:
   - path: /contact-us
-    translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
-    translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+    translation_key: menu.contact_us  
+  - path: 'https://www.facebook.com/cbscur/'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
